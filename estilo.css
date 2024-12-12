@@ -84,6 +84,13 @@ button {
     color: #33A8D8;
     width: 110px;
  }
+  
+ section .professional-challenges{
+    width: 746px;
+    height: 76px;
+    top: 1577px;
+    left: 347px;
+ }
 
  section h2 {
     text-align: center;
@@ -105,9 +112,6 @@ button {
     text-align: center;
  }
 
- .professional-challenges p {
-    max-width: 20px;
- }
  #transform-world {
     border: 1px solid #33A8DB;
     background-image:  url(assets/images/woman-code.png);
